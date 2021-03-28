@@ -1,0 +1,10 @@
+spring:  
+  jpa:  
+    hibernate:  
+      ddl-auto: update  
+    database-platform: org.hibernate.dialect.PostgreSQLDialect  
+  datasource:  
+    url: postgres://norsohsdsklaqb:e09a490c653e4c90f48a0d9b850fc7629292cdd5dd2c418f12c13c344d17b885@ec2-54-235-108-217.compute-1.amazonaws.com:5432/dcs11ko6hg48dl
+    
+    username: norsohsdsklaqb 
+    password: e09a490c653e4c90f48a0d9b850fc7629292cdd5dd2c418f12c13c344d17b885
